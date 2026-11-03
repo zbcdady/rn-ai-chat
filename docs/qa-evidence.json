@@ -1,0 +1,112 @@
+{
+  "date": "2026-11-02",
+  "devices": {
+    "duo": {
+      "udid": "1E83004E-6699-4426-AFB4-05967F31261C",
+      "contextContinuity": {
+        "sessionId": "mvz1xpen-0xc0irm8ob",
+        "answers": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "passed": true,
+        "generationState": "idle"
+      },
+      "editing": {
+        "sessionId": "mvz1zv09-nyxjga6rgz",
+        "userMessageCount": 3,
+        "generationState": "idle",
+        "userLengths": [
+          88,
+          14,
+          49
+        ],
+        "assistantTextLengths": [
+          336,
+          10,
+          5161
+        ]
+      },
+      "network": {
+        "sessionId": "mvz2m00x-o11102ng7k",
+        "userMessageCount": 1,
+        "generationState": "idle",
+        "userLengths": [
+          20
+        ],
+        "assistantTextLengths": [
+          7
+        ]
+      },
+      "background": {
+        "sessionId": "mvz2s79q-si689ts3wt",
+        "userMessageCount": 1,
+        "generationState": "interrupted",
+        "userLengths": [
+          67
+        ],
+        "assistantTextLengths": [
+          0
+        ]
+      }
+    },
+    "pro": {
+      "udid": "A2795C8E-A04D-4668-ACF1-72A4822FA83A",
+      "contextContinuity": {
+        "sessionId": "mvz1y2ow-rid3x6ey16",
+        "answers": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "passed": true,
+        "generationState": "interrupted"
+      },
+      "editing": {
+        "sessionId": "mvz203a9-n8lewpcvqv",
+        "userMessageCount": 3,
+        "generationState": "stopped",
+        "userLengths": [
+          88,
+          14,
+          49
+        ],
+        "assistantTextLengths": [
+          336,
+          10,
+          1810
+        ]
+      },
+      "network": {
+        "sessionId": "mvz2m8f5-02ygff2txz",
+        "userMessageCount": 1,
+        "generationState": "idle",
+        "userLengths": [
+          20
+        ],
+        "assistantTextLengths": [
+          6
+        ]
+      }
+    }
+  }
+}

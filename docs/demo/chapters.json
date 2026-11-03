@@ -1,0 +1,57 @@
+{
+  "durationSeconds": 246.166667,
+  "playbackSpeed": 1,
+  "continuousRecording": true,
+  "waitingTimeRemoved": false,
+  "device": "iPhone 18 Pro / Expo Go",
+  "chapters": [
+    {
+      "timeSeconds": 0.0,
+      "title": "真实流式回答"
+    },
+    {
+      "timeSeconds": 27.211,
+      "title": "阅读与内容操作"
+    },
+    {
+      "timeSeconds": 59.754,
+      "title": "保留上下文的追问"
+    },
+    {
+      "timeSeconds": 71.704,
+      "title": "编辑问题并重新发送"
+    },
+    {
+      "timeSeconds": 86.483,
+      "title": "重新生成回答"
+    },
+    {
+      "timeSeconds": 97.415,
+      "title": "主动停止生成"
+    },
+    {
+      "timeSeconds": 112.448,
+      "title": "真实服务端工具"
+    },
+    {
+      "timeSeconds": 171.729,
+      "title": "真实连接失败"
+    },
+    {
+      "timeSeconds": 185.788,
+      "title": "恢复服务后重试"
+    },
+    {
+      "timeSeconds": 197.51,
+      "title": "独立会话与草稿"
+    },
+    {
+      "timeSeconds": 218.671,
+      "title": "关闭应用后恢复"
+    },
+    {
+      "timeSeconds": 242.226,
+      "title": "演示完成"
+    }
+  ]
+}
